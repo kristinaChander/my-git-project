@@ -18,6 +18,7 @@ public class EuclidNOD {
         System.out.println(new EuclidNOD().nod(24987,3679));
         System.out.println(new EuclidNOD().nod(2664,37986));
         System.out.println(new EuclidNOD().nod(15,145));
+        System.out.println(new EuclidNOD().nod(185,145));
     }
 
 }
